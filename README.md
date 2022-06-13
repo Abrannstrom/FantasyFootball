@@ -1,4 +1,7 @@
 # BestBall
+Raw BBM and BBM2 data:
+https://underblog.underdogfantasy.com/raw-data-from-best-ball-mania-i-dbb5f947311d
+https://underdognetwork.com/football/best-ball-mania-ii-downloadable-pick-by-pick-data
 ## What Works
   It's clear that the elite RBs have access to a ceiling that we can't find anywhere else (Cooper Kupp lol).  Despite Jonathon Taylor being a first round pick in most drafts in 2021 he provided a whopping 43% advance rate which rivals Cooper Kupp's 48%.  I think it's fair to say that Kupp had a legendary season and considering his adp being at the 3/4 turn, you would expect his advance rate to be higher than it was.
     ![Screenshot](https://github.com/Abrannstrom/FantasyFootball/blob/main/Advance_Rates/BBM2_adv_rates.png?raw=true)
