@@ -18,3 +18,12 @@ Aaron Jones.  Sometimes these guys will be gone by the middle of the 3rd in whic
   
   I'm going anchor RB and if I have the 1.01 that anchor is JT, otherwise, I'm starting with two receivers.
   
+## Player Targets
+  Let me start by saying that I think the ADPs on Underdog are very efficient.  As I started to dig into the numbers, I found that the ADPs are very closely correlated to the number of fantasy points that players scored in the previous year.  In some cases, it seems the field neglects to consider how large of a factor variance is in this game that we play. Below are a couple of players that underperformed against expectation based on opportunities in 2021.    
+
+### RB David Montgomery – CHI (ADP: 47.4)
+  I understand the lack of excitement that comes with drafting Bears players but Montgomery is a volume monster.  He averaged 21.5 touches per game (3.5 receptions) in his final 10 games last season, trailing only Jonathon Taylor and Dalvin Cook.  Although he was very inefficient based on that usage, he was still the RB12 over that stretch in half ppr scoring.  Montgomery is being drafted as the RB18 on Underdog right now.  Need I remind everyone that he saw a very similar workload in 2020 and was the RB4 of the season.  I believe Montgomery is being drafted beneath his floor outcome and he still has the upside to help us win BBM3.  
+
+### TE Zach Ertz – ARI (ADP: 110.3)
+  Listen, I dislike old and dusty TE’s just as much as the next guy but Ertz is too cheap.  He was the TE5 in terms of target volume during his time in Arizona last year and posted a modest TE9 half ppr average. Over the final 4 games of 2021, he averaged 10.75 targets per game trailing only Mark Andrews.  And although he saw an uptick in opportunities in those games, he didn’t reap the benefits of the accompanying uptick in production that is supposed to follow.  Kyler Murray’s two favorite targets last year were Christian Kirk and DeAndre Hopkins, one of which is no longer on the team and the other is going to miss the first 6 games of 2022.  Ertz is being drafted as the TE10 and 70 picks behind Darren Waller, a player that I believe Ertz is likely to out target.  I’m comfortable rolling Ertz out as my TE1 on Underdog in 2 TE builds.  The structural advantage that this provides for roster building is even more valuable than the raw ADP misevaluation.  
+
